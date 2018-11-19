@@ -6,7 +6,7 @@
   * [Basic CLI Use](cli-basic-cmd)
   * [Modules(lyrajs)](lyra-modules)
   * [Modules(Multimodule)](multi-module)
-  * Controller
-  * Logic
-  * Model
-  * View(render)
+  * [Controller]
+  * [Logic]
+  * [Model]
+  * [View(render)]

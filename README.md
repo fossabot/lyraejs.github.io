@@ -1,8 +1,8 @@
-# Lyra
+# Lyrae
 
-Lyra is a MVLC(Model-View-Logic-Controller) framework for javascript, developed by [@KsRyY](github.com/ksryy)
+Lyrae is a MVLC(Model-View-Logic-Controller) framework for javascript, developed by [@KsRyY](github.com/ksryy)
 
-Repo: [lyrajs](https://github.com/enwrap/lyrajs) [lyra-cli](https://github.com/enwrap/lyra-cli) [lyrajs-pug](https://github.com/enwrap/lyra-pug)
+Repo: [lyraejs](https://github.com/enwrap/lyraejs) [lyrae-cli](https://github.com/enwrap/lyrae-cli) [lyraejs-pug](https://github.com/enwrap/lyrae-pug)
 
 ## Developer
 
