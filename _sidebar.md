@@ -1,6 +1,12 @@
 * Getting Started
   * [Create Project](getting-started)
-  * [Pug based Lyra](pug)
+  * [Other kind of Lyra](other-project)
 
-  * [CLI Document Part.I](cli-part1)
-
+* Basic Concepts
+  * [Basic CLI Use](cli-basic-cmd)
+  * [Modules(lyrajs)](lyra-modules)
+  * [Modules(Multimodule)](multi-module)
+  * Controller
+  * Logic
+  * Model
+  * View(render)

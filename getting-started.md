@@ -37,6 +37,8 @@ The file structure would look like this
 ||--- controller
 ||--- logic
 ||--- model
-||--- view
+|||--- index.js
+|--- view
+||--- index_index.html
 ```
 
