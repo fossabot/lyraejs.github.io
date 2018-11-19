@@ -1,6 +1,6 @@
 * Getting Started
   * [Create Project](getting-started)
-  * [Other kind of Lyra](other-project)
+  * [Other kind of LyraeJS](other-project)
 
 * Basic Concepts
   * [Basic CLI Use](cli-basic-cmd)
